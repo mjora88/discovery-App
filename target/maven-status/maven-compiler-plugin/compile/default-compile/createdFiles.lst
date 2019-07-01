@@ -1,0 +1,14 @@
+com\khoza\atm\model\HonoraryTitle.class
+com\khoza\atm\model\Customer.class
+com\khoza\atm\model\FinancialPositionReport.class
+com\khoza\atm\service\CustomerService.class
+com\khoza\atm\model\Account.class
+com\khoza\atm\service\MessageService.class
+com\khoza\atm\SpringBootConsoleApplication.class
+com\khoza\atm\service\BankingService.class
+com\khoza\atm\model\Account$AccountType.class
+com\khoza\atm\repository\AccountRepository.class
+com\khoza\atm\config\AppConf.class
+com\khoza\atm\repository\CustomerRepository.class
+com\khoza\atm\service\AccountService.class
+com\khoza\atm\service\BankingAutomatedTellerMachineService.class
